@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi there 👋 I'm Adam 👨‍💻
+  Hi there 👋
+  I'm Adam 👨‍💻
 </h1>
 
 - 🔭 I’m currently studying at Pakuan University
